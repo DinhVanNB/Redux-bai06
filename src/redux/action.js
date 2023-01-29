@@ -1,0 +1,5 @@
+export const FETCH_USER = "FETCH_USER";
+export const FETCH_USER_SUCCESS = "FETCH_USER_SUCCESS";
+export const DELETE_BY_ID= "DELETE_BY_ID";
+export const DELETE_BY_ID_SUCCESS= "DELETE_BY_ID_SUCCESS";
+
